@@ -18,3 +18,6 @@ product.inStock=true;
 console.table(product);
 delete product.id;
 console.table(product);
+console.table(product);
+console.table(product);
+console.table(product);
